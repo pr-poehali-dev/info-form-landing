@@ -21,8 +21,8 @@ const SurveySection = () => {
   return (
     <div className="bg-white rounded-xl shadow-lg border border-gray-100 p-6">
       <div className="flex items-center gap-3 mb-4">
-        <div className="p-2 bg-purple-100 rounded-lg">
-          <Icon name="FileText" size={24} className="text-purple-600" />
+        <div className="p-2 bg-blue-100 rounded-lg">
+          <Icon name="FileText" size={24} className="text-blue-600" />
         </div>
         <div>
           <h2 className="text-xl font-bold text-gray-800">Анкета</h2>

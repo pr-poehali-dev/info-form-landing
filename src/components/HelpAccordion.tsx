@@ -33,7 +33,7 @@ const HelpAccordion = ({ title, content }: HelpAccordionProps) => {
                 <Icon
                   name="Dot"
                   size={12}
-                  className="text-purple-500 flex-shrink-0 mt-1"
+                  className="text-blue-500 flex-shrink-0 mt-1"
                 />
                 {item}
               </li>
