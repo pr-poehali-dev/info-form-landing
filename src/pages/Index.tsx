@@ -17,7 +17,7 @@ const Index = () => {
 
         <Banner />
 
-        <div className="grid md:grid-cols-2 gap-8">
+        <div className="flex flex-col lg:flex-row gap-8">
           <SurveySection />
           <MessageSection />
         </div>
